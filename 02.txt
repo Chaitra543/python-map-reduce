@@ -1,0 +1,859 @@
+Amex	Baby
+Amex	Baby
+Amex	Baby
+Amex	Baby
+Amex	Baby
+Amex	Books
+Amex	Books
+Amex	Books
+Amex	Books
+Amex	Books
+Amex	Books
+Amex	Books
+Amex	CDs
+Amex	CDs
+Amex	CDs
+Amex	CDs
+Amex	CDs
+Amex	CDs
+Amex	CDs
+Amex	CDs
+Amex	CDs
+Amex	CDs
+Amex	CDs
+Amex	CDs
+Amex	Cameras
+Amex	Cameras
+Amex	Cameras
+Amex	Cameras
+Amex	Cameras
+Amex	Cameras
+Amex	Cameras
+Amex	Cameras
+Amex	Cameras
+Amex	Cameras
+Amex	Children's Clothing
+Amex	Children's Clothing
+Amex	Children's Clothing
+Amex	Children's Clothing
+Amex	Children's Clothing
+Amex	Children's Clothing
+Amex	Computers
+Amex	Computers
+Amex	Computers
+Amex	Computers
+Amex	Computers
+Amex	Computers
+Amex	Computers
+Amex	Computers
+Amex	Consumer Electronics
+Amex	Consumer Electronics
+Amex	Consumer Electronics
+Amex	Consumer Electronics
+Amex	Consumer Electronics
+Amex	Consumer Electronics
+Amex	Consumer Electronics
+Amex	Consumer Electronics
+Amex	Consumer Electronics
+Amex	Crafts
+Amex	Crafts
+Amex	Crafts
+Amex	Crafts
+Amex	Crafts
+Amex	Crafts
+Amex	Crafts
+Amex	Crafts
+Amex	Crafts
+Amex	Crafts
+Amex	Crafts
+Amex	Crafts
+Amex	Crafts
+Amex	Crafts
+Amex	DVDs
+Amex	DVDs
+Amex	DVDs
+Amex	DVDs
+Amex	DVDs
+Amex	DVDs
+Amex	Garden
+Amex	Garden
+Amex	Garden
+Amex	Garden
+Amex	Garden
+Amex	Garden
+Amex	Garden
+Amex	Health and Beauty
+Amex	Health and Beauty
+Amex	Health and Beauty
+Amex	Health and Beauty
+Amex	Health and Beauty
+Amex	Health and Beauty
+Amex	Health and Beauty
+Amex	Health and Beauty
+Amex	Health and Beauty
+Amex	Men's Clothing
+Amex	Men's Clothing
+Amex	Men's Clothing
+Amex	Men's Clothing
+Amex	Men's Clothing
+Amex	Men's Clothing
+Amex	Men's Clothing
+Amex	Men's Clothing
+Amex	Men's Clothing
+Amex	Men's Clothing
+Amex	Music
+Amex	Music
+Amex	Music
+Amex	Music
+Amex	Music
+Amex	Music
+Amex	Music
+Amex	Music
+Amex	Music
+Amex	Music
+Amex	Music
+Amex	Music
+Amex	Music
+Amex	Pet Supplies
+Amex	Pet Supplies
+Amex	Pet Supplies
+Amex	Pet Supplies
+Amex	Pet Supplies
+Amex	Pet Supplies
+Amex	Sporting Goods
+Amex	Sporting Goods
+Amex	Sporting Goods
+Amex	Sporting Goods
+Amex	Sporting Goods
+Amex	Sporting Goods
+Amex	Sporting Goods
+Amex	Sporting Goods
+Amex	Sporting Goods
+Amex	Sporting Goods
+Amex	Sporting Goods
+Amex	Sporting Goods
+Amex	Sporting Goods
+Amex	Sporting Goods
+Amex	Toys
+Amex	Toys
+Amex	Toys
+Amex	Toys
+Amex	Toys
+Amex	Toys
+Amex	Toys
+Amex	Video Games
+Amex	Video Games
+Amex	Video Games
+Amex	Video Games
+Amex	Video Games
+Amex	Video Games
+Amex	Video Games
+Amex	Video Games
+Amex	Women's Clothing
+Amex	Women's Clothing
+Amex	Women's Clothing
+Amex	Women's Clothing
+Amex	Women's Clothing
+Amex	Women's Clothing
+Amex	Women's Clothing
+Amex	Women's Clothing
+Amex	Women's Clothing
+Amex	Women's Clothing
+Cash	Baby
+Cash	Baby
+Cash	Baby
+Cash	Baby
+Cash	Baby
+Cash	Baby
+Cash	Books
+Cash	Books
+Cash	Books
+Cash	Books
+Cash	Books
+Cash	Books
+Cash	Books
+Cash	Books
+Cash	Books
+Cash	Books
+Cash	CDs
+Cash	CDs
+Cash	CDs
+Cash	CDs
+Cash	CDs
+Cash	CDs
+Cash	CDs
+Cash	CDs
+Cash	CDs
+Cash	CDs
+Cash	Cameras
+Cash	Cameras
+Cash	Cameras
+Cash	Cameras
+Cash	Cameras
+Cash	Cameras
+Cash	Cameras
+Cash	Cameras
+Cash	Children's Clothing
+Cash	Children's Clothing
+Cash	Children's Clothing
+Cash	Children's Clothing
+Cash	Children's Clothing
+Cash	Children's Clothing
+Cash	Children's Clothing
+Cash	Children's Clothing
+Cash	Computers
+Cash	Computers
+Cash	Computers
+Cash	Computers
+Cash	Computers
+Cash	Computers
+Cash	Computers
+Cash	Consumer Electronics
+Cash	Consumer Electronics
+Cash	Consumer Electronics
+Cash	Consumer Electronics
+Cash	Consumer Electronics
+Cash	Consumer Electronics
+Cash	Consumer Electronics
+Cash	Consumer Electronics
+Cash	Consumer Electronics
+Cash	Consumer Electronics
+Cash	Consumer Electronics
+Cash	Consumer Electronics
+Cash	Consumer Electronics
+Cash	Consumer Electronics
+Cash	Consumer Electronics
+Cash	Crafts
+Cash	Crafts
+Cash	Crafts
+Cash	Crafts
+Cash	Crafts
+Cash	Crafts
+Cash	Crafts
+Cash	Crafts
+Cash	DVDs
+Cash	DVDs
+Cash	DVDs
+Cash	DVDs
+Cash	DVDs
+Cash	DVDs
+Cash	DVDs
+Cash	DVDs
+Cash	DVDs
+Cash	DVDs
+Cash	Garden
+Cash	Garden
+Cash	Garden
+Cash	Garden
+Cash	Garden
+Cash	Garden
+Cash	Garden
+Cash	Garden
+Cash	Garden
+Cash	Garden
+Cash	Garden
+Cash	Garden
+Cash	Garden
+Cash	Garden
+Cash	Health and Beauty
+Cash	Health and Beauty
+Cash	Health and Beauty
+Cash	Health and Beauty
+Cash	Health and Beauty
+Cash	Health and Beauty
+Cash	Health and Beauty
+Cash	Health and Beauty
+Cash	Men's Clothing
+Cash	Men's Clothing
+Cash	Men's Clothing
+Cash	Men's Clothing
+Cash	Music
+Cash	Music
+Cash	Music
+Cash	Music
+Cash	Music
+Cash	Music
+Cash	Music
+Cash	Music
+Cash	Pet Supplies
+Cash	Pet Supplies
+Cash	Pet Supplies
+Cash	Pet Supplies
+Cash	Pet Supplies
+Cash	Pet Supplies
+Cash	Pet Supplies
+Cash	Pet Supplies
+Cash	Pet Supplies
+Cash	Pet Supplies
+Cash	Pet Supplies
+Cash	Pet Supplies
+Cash	Pet Supplies
+Cash	Pet Supplies
+Cash	Pet Supplies
+Cash	Pet Supplies
+Cash	Sporting Goods
+Cash	Sporting Goods
+Cash	Sporting Goods
+Cash	Sporting Goods
+Cash	Sporting Goods
+Cash	Sporting Goods
+Cash	Toys
+Cash	Toys
+Cash	Toys
+Cash	Toys
+Cash	Toys
+Cash	Toys
+Cash	Toys
+Cash	Toys
+Cash	Toys
+Cash	Toys
+Cash	Video Games
+Cash	Video Games
+Cash	Video Games
+Cash	Video Games
+Cash	Video Games
+Cash	Video Games
+Cash	Video Games
+Cash	Women's Clothing
+Cash	Women's Clothing
+Cash	Women's Clothing
+Cash	Women's Clothing
+Cash	Women's Clothing
+Cash	Women's Clothing
+Cash	Women's Clothing
+Cash	Women's Clothing
+Cash	Women's Clothing
+Cash	Women's Clothing
+Discover	Baby
+Discover	Baby
+Discover	Baby
+Discover	Baby
+Discover	Baby
+Discover	Baby
+Discover	Baby
+Discover	Baby
+Discover	Books
+Discover	Books
+Discover	Books
+Discover	Books
+Discover	Books
+Discover	Books
+Discover	Books
+Discover	Books
+Discover	Books
+Discover	Books
+Discover	Books
+Discover	Books
+Discover	Books
+Discover	Books
+Discover	Books
+Discover	Books
+Discover	CDs
+Discover	CDs
+Discover	CDs
+Discover	CDs
+Discover	CDs
+Discover	CDs
+Discover	CDs
+Discover	CDs
+Discover	CDs
+Discover	CDs
+Discover	Cameras
+Discover	Cameras
+Discover	Cameras
+Discover	Cameras
+Discover	Cameras
+Discover	Cameras
+Discover	Cameras
+Discover	Cameras
+Discover	Cameras
+Discover	Cameras
+Discover	Cameras
+Discover	Cameras
+Discover	Cameras
+Discover	Children's Clothing
+Discover	Children's Clothing
+Discover	Children's Clothing
+Discover	Children's Clothing
+Discover	Children's Clothing
+Discover	Children's Clothing
+Discover	Children's Clothing
+Discover	Children's Clothing
+Discover	Computers
+Discover	Computers
+Discover	Computers
+Discover	Consumer Electronics
+Discover	Consumer Electronics
+Discover	Consumer Electronics
+Discover	Consumer Electronics
+Discover	Consumer Electronics
+Discover	Consumer Electronics
+Discover	Consumer Electronics
+Discover	Consumer Electronics
+Discover	Consumer Electronics
+Discover	Consumer Electronics
+Discover	Crafts
+Discover	Crafts
+Discover	Crafts
+Discover	Crafts
+Discover	Crafts
+Discover	Crafts
+Discover	Crafts
+Discover	Crafts
+Discover	Crafts
+Discover	Crafts
+Discover	Crafts
+Discover	DVDs
+Discover	DVDs
+Discover	DVDs
+Discover	DVDs
+Discover	DVDs
+Discover	DVDs
+Discover	DVDs
+Discover	DVDs
+Discover	Garden
+Discover	Garden
+Discover	Garden
+Discover	Garden
+Discover	Garden
+Discover	Garden
+Discover	Garden
+Discover	Garden
+Discover	Garden
+Discover	Garden
+Discover	Health and Beauty
+Discover	Health and Beauty
+Discover	Health and Beauty
+Discover	Health and Beauty
+Discover	Health and Beauty
+Discover	Men's Clothing
+Discover	Men's Clothing
+Discover	Men's Clothing
+Discover	Men's Clothing
+Discover	Men's Clothing
+Discover	Men's Clothing
+Discover	Men's Clothing
+Discover	Men's Clothing
+Discover	Men's Clothing
+Discover	Music
+Discover	Music
+Discover	Music
+Discover	Music
+Discover	Music
+Discover	Music
+Discover	Music
+Discover	Music
+Discover	Music
+Discover	Music
+Discover	Music
+Discover	Music
+Discover	Pet Supplies
+Discover	Pet Supplies
+Discover	Pet Supplies
+Discover	Pet Supplies
+Discover	Pet Supplies
+Discover	Pet Supplies
+Discover	Pet Supplies
+Discover	Pet Supplies
+Discover	Pet Supplies
+Discover	Pet Supplies
+Discover	Pet Supplies
+Discover	Pet Supplies
+Discover	Pet Supplies
+Discover	Sporting Goods
+Discover	Sporting Goods
+Discover	Sporting Goods
+Discover	Sporting Goods
+Discover	Sporting Goods
+Discover	Sporting Goods
+Discover	Sporting Goods
+Discover	Sporting Goods
+Discover	Sporting Goods
+Discover	Sporting Goods
+Discover	Sporting Goods
+Discover	Toys
+Discover	Toys
+Discover	Toys
+Discover	Toys
+Discover	Toys
+Discover	Toys
+Discover	Toys
+Discover	Video Games
+Discover	Video Games
+Discover	Video Games
+Discover	Video Games
+Discover	Video Games
+Discover	Video Games
+Discover	Video Games
+Discover	Video Games
+Discover	Video Games
+Discover	Video Games
+Discover	Women's Clothing
+Discover	Women's Clothing
+Discover	Women's Clothing
+Discover	Women's Clothing
+Discover	Women's Clothing
+Discover	Women's Clothing
+Discover	Women's Clothing
+Discover	Women's Clothing
+Discover	Women's Clothing
+Discover	Women's Clothing
+Discover	Women's Clothing
+MasterCard	Baby
+MasterCard	Baby
+MasterCard	Baby
+MasterCard	Baby
+MasterCard	Baby
+MasterCard	Baby
+MasterCard	Baby
+MasterCard	Baby
+MasterCard	Baby
+MasterCard	Books
+MasterCard	Books
+MasterCard	Books
+MasterCard	Books
+MasterCard	CDs
+MasterCard	CDs
+MasterCard	CDs
+MasterCard	CDs
+MasterCard	CDs
+MasterCard	CDs
+MasterCard	CDs
+MasterCard	CDs
+MasterCard	Cameras
+MasterCard	Cameras
+MasterCard	Cameras
+MasterCard	Cameras
+MasterCard	Cameras
+MasterCard	Cameras
+MasterCard	Cameras
+MasterCard	Cameras
+MasterCard	Children's Clothing
+MasterCard	Children's Clothing
+MasterCard	Children's Clothing
+MasterCard	Children's Clothing
+MasterCard	Children's Clothing
+MasterCard	Children's Clothing
+MasterCard	Children's Clothing
+MasterCard	Children's Clothing
+MasterCard	Children's Clothing
+MasterCard	Children's Clothing
+MasterCard	Children's Clothing
+MasterCard	Children's Clothing
+MasterCard	Children's Clothing
+MasterCard	Children's Clothing
+MasterCard	Children's Clothing
+MasterCard	Computers
+MasterCard	Computers
+MasterCard	Computers
+MasterCard	Computers
+MasterCard	Computers
+MasterCard	Computers
+MasterCard	Computers
+MasterCard	Computers
+MasterCard	Computers
+MasterCard	Computers
+MasterCard	Computers
+MasterCard	Computers
+MasterCard	Computers
+MasterCard	Consumer Electronics
+MasterCard	Consumer Electronics
+MasterCard	Consumer Electronics
+MasterCard	Consumer Electronics
+MasterCard	Consumer Electronics
+MasterCard	Consumer Electronics
+MasterCard	Consumer Electronics
+MasterCard	Consumer Electronics
+MasterCard	Crafts
+MasterCard	Crafts
+MasterCard	Crafts
+MasterCard	Crafts
+MasterCard	Crafts
+MasterCard	Crafts
+MasterCard	Crafts
+MasterCard	Crafts
+MasterCard	DVDs
+MasterCard	DVDs
+MasterCard	DVDs
+MasterCard	DVDs
+MasterCard	DVDs
+MasterCard	DVDs
+MasterCard	DVDs
+MasterCard	DVDs
+MasterCard	DVDs
+MasterCard	DVDs
+MasterCard	DVDs
+MasterCard	DVDs
+MasterCard	DVDs
+MasterCard	Garden
+MasterCard	Garden
+MasterCard	Garden
+MasterCard	Garden
+MasterCard	Garden
+MasterCard	Garden
+MasterCard	Garden
+MasterCard	Garden
+MasterCard	Garden
+MasterCard	Garden
+MasterCard	Garden
+MasterCard	Health and Beauty
+MasterCard	Health and Beauty
+MasterCard	Health and Beauty
+MasterCard	Health and Beauty
+MasterCard	Health and Beauty
+MasterCard	Health and Beauty
+MasterCard	Health and Beauty
+MasterCard	Health and Beauty
+MasterCard	Health and Beauty
+MasterCard	Health and Beauty
+MasterCard	Health and Beauty
+MasterCard	Health and Beauty
+MasterCard	Men's Clothing
+MasterCard	Men's Clothing
+MasterCard	Men's Clothing
+MasterCard	Men's Clothing
+MasterCard	Men's Clothing
+MasterCard	Men's Clothing
+MasterCard	Men's Clothing
+MasterCard	Men's Clothing
+MasterCard	Men's Clothing
+MasterCard	Men's Clothing
+MasterCard	Music
+MasterCard	Music
+MasterCard	Music
+MasterCard	Music
+MasterCard	Music
+MasterCard	Music
+MasterCard	Music
+MasterCard	Music
+MasterCard	Music
+MasterCard	Pet Supplies
+MasterCard	Pet Supplies
+MasterCard	Pet Supplies
+MasterCard	Pet Supplies
+MasterCard	Pet Supplies
+MasterCard	Pet Supplies
+MasterCard	Pet Supplies
+MasterCard	Sporting Goods
+MasterCard	Sporting Goods
+MasterCard	Sporting Goods
+MasterCard	Sporting Goods
+MasterCard	Sporting Goods
+MasterCard	Sporting Goods
+MasterCard	Sporting Goods
+MasterCard	Sporting Goods
+MasterCard	Sporting Goods
+MasterCard	Sporting Goods
+MasterCard	Toys
+MasterCard	Toys
+MasterCard	Toys
+MasterCard	Toys
+MasterCard	Toys
+MasterCard	Toys
+MasterCard	Toys
+MasterCard	Video Games
+MasterCard	Video Games
+MasterCard	Video Games
+MasterCard	Video Games
+MasterCard	Video Games
+MasterCard	Video Games
+MasterCard	Video Games
+MasterCard	Video Games
+MasterCard	Video Games
+MasterCard	Women's Clothing
+MasterCard	Women's Clothing
+MasterCard	Women's Clothing
+MasterCard	Women's Clothing
+MasterCard	Women's Clothing
+MasterCard	Women's Clothing
+Visa	Baby
+Visa	Baby
+Visa	Baby
+Visa	Baby
+Visa	Baby
+Visa	Baby
+Visa	Baby
+Visa	Baby
+Visa	Baby
+Visa	Baby
+Visa	Baby
+Visa	Baby
+Visa	Books
+Visa	Books
+Visa	Books
+Visa	Books
+Visa	Books
+Visa	Books
+Visa	Books
+Visa	Books
+Visa	CDs
+Visa	CDs
+Visa	CDs
+Visa	CDs
+Visa	CDs
+Visa	CDs
+Visa	CDs
+Visa	Cameras
+Visa	Cameras
+Visa	Cameras
+Visa	Cameras
+Visa	Cameras
+Visa	Cameras
+Visa	Cameras
+Visa	Cameras
+Visa	Cameras
+Visa	Children's Clothing
+Visa	Children's Clothing
+Visa	Children's Clothing
+Visa	Children's Clothing
+Visa	Children's Clothing
+Visa	Children's Clothing
+Visa	Children's Clothing
+Visa	Children's Clothing
+Visa	Children's Clothing
+Visa	Children's Clothing
+Visa	Computers
+Visa	Computers
+Visa	Computers
+Visa	Computers
+Visa	Computers
+Visa	Computers
+Visa	Computers
+Visa	Computers
+Visa	Computers
+Visa	Computers
+Visa	Computers
+Visa	Computers
+Visa	Consumer Electronics
+Visa	Consumer Electronics
+Visa	Consumer Electronics
+Visa	Consumer Electronics
+Visa	Consumer Electronics
+Visa	Crafts
+Visa	Crafts
+Visa	Crafts
+Visa	Crafts
+Visa	Crafts
+Visa	Crafts
+Visa	Crafts
+Visa	Crafts
+Visa	Crafts
+Visa	Crafts
+Visa	Crafts
+Visa	Crafts
+Visa	Crafts
+Visa	Crafts
+Visa	Crafts
+Visa	Crafts
+Visa	DVDs
+Visa	DVDs
+Visa	DVDs
+Visa	DVDs
+Visa	DVDs
+Visa	DVDs
+Visa	DVDs
+Visa	DVDs
+Visa	DVDs
+Visa	DVDs
+Visa	DVDs
+Visa	DVDs
+Visa	DVDs
+Visa	Garden
+Visa	Garden
+Visa	Garden
+Visa	Garden
+Visa	Garden
+Visa	Garden
+Visa	Garden
+Visa	Garden
+Visa	Garden
+Visa	Garden
+Visa	Health and Beauty
+Visa	Health and Beauty
+Visa	Health and Beauty
+Visa	Health and Beauty
+Visa	Health and Beauty
+Visa	Health and Beauty
+Visa	Health and Beauty
+Visa	Health and Beauty
+Visa	Health and Beauty
+Visa	Health and Beauty
+Visa	Health and Beauty
+Visa	Men's Clothing
+Visa	Men's Clothing
+Visa	Men's Clothing
+Visa	Men's Clothing
+Visa	Men's Clothing
+Visa	Men's Clothing
+Visa	Men's Clothing
+Visa	Men's Clothing
+Visa	Men's Clothing
+Visa	Men's Clothing
+Visa	Men's Clothing
+Visa	Men's Clothing
+Visa	Men's Clothing
+Visa	Music
+Visa	Music
+Visa	Music
+Visa	Pet Supplies
+Visa	Pet Supplies
+Visa	Pet Supplies
+Visa	Pet Supplies
+Visa	Pet Supplies
+Visa	Pet Supplies
+Visa	Pet Supplies
+Visa	Pet Supplies
+Visa	Sporting Goods
+Visa	Sporting Goods
+Visa	Sporting Goods
+Visa	Sporting Goods
+Visa	Sporting Goods
+Visa	Sporting Goods
+Visa	Sporting Goods
+Visa	Sporting Goods
+Visa	Sporting Goods
+Visa	Sporting Goods
+Visa	Sporting Goods
+Visa	Sporting Goods
+Visa	Toys
+Visa	Toys
+Visa	Toys
+Visa	Toys
+Visa	Toys
+Visa	Toys
+Visa	Toys
+Visa	Toys
+Visa	Toys
+Visa	Toys
+Visa	Toys
+Visa	Toys
+Visa	Toys
+Visa	Video Games
+Visa	Video Games
+Visa	Video Games
+Visa	Video Games
+Visa	Video Games
+Visa	Video Games
+Visa	Video Games
+Visa	Video Games
+Visa	Video Games
+Visa	Video Games
+Visa	Video Games
+Visa	Video Games
+Visa	Women's Clothing
+Visa	Women's Clothing
+Visa	Women's Clothing
+Visa	Women's Clothing
+Visa	Women's Clothing
+Visa	Women's Clothing
+Visa	Women's Clothing
+Visa	Women's Clothing
+Visa	Women's Clothing
+Visa	Women's Clothing
+Visa	Women's Clothing
+Visa	Women's Clothing
+Visa	Women's Clothing
+Visa	Women's Clothing
+Visa	Women's Clothing
+Visa	Women's Clothing
+Visa	Women's Clothing

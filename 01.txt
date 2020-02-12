@@ -1,0 +1,859 @@
+Amex	Men's Clothing
+Visa	Women's Clothing
+Cash	Music
+Discover	Pet Supplies
+MasterCard	Children's Clothing
+MasterCard	Men's Clothing
+Visa	Cameras
+Cash	Consumer Electronics
+Discover	Toys
+Visa	Toys
+Visa	Video Games
+Cash	Video Games
+MasterCard	Cameras
+MasterCard	DVDs
+Discover	Music
+Visa	Garden
+Visa	Women's Clothing
+Cash	Women's Clothing
+Amex	Cameras
+Visa	Baby
+Visa	Books
+Amex	Children's Clothing
+Cash	Consumer Electronics
+Visa	Baby
+Visa	Crafts
+Cash	Books
+Amex	Men's Clothing
+Cash	Consumer Electronics
+Visa	Men's Clothing
+Discover	Sporting Goods
+Amex	CDs
+Discover	Sporting Goods
+Visa	Toys
+MasterCard	Music
+Amex	Sporting Goods
+Amex	Garden
+MasterCard	Computers
+MasterCard	CDs
+MasterCard	Baby
+Amex	DVDs
+MasterCard	Consumer Electronics
+Cash	DVDs
+Cash	Baby
+Amex	Crafts
+Amex	Women's Clothing
+Cash	Books
+Visa	Computers
+Discover	Cameras
+Discover	Books
+Discover	Books
+Amex	Crafts
+Discover	Garden
+Discover	Computers
+MasterCard	Toys
+Discover	Video Games
+Visa	Crafts
+Visa	Toys
+Cash	CDs
+Visa	Women's Clothing
+Visa	Health and Beauty
+Discover	Garden
+MasterCard	Garden
+Discover	Toys
+Discover	Baby
+Amex	Consumer Electronics
+Cash	Toys
+Discover	Women's Clothing
+MasterCard	Men's Clothing
+Visa	Video Games
+Discover	Books
+Discover	Men's Clothing
+Discover	Music
+MasterCard	Toys
+Visa	Garden
+Discover	Cameras
+Visa	Children's Clothing
+Visa	Health and Beauty
+Amex	Men's Clothing
+Discover	Books
+MasterCard	Garden
+Discover	Crafts
+Visa	DVDs
+Visa	DVDs
+Discover	Crafts
+Visa	DVDs
+Cash	Pet Supplies
+Cash	Video Games
+Discover	Men's Clothing
+MasterCard	Computers
+Visa	Sporting Goods
+MasterCard	Health and Beauty
+Cash	Consumer Electronics
+Amex	CDs
+Discover	DVDs
+Discover	Computers
+Discover	CDs
+Visa	Sporting Goods
+Cash	Baby
+Visa	Garden
+Amex	Pet Supplies
+Discover	Children's Clothing
+Cash	Women's Clothing
+MasterCard	Consumer Electronics
+Visa	Baby
+Discover	Books
+Cash	Music
+Discover	Crafts
+MasterCard	Women's Clothing
+Cash	Books
+Visa	Sporting Goods
+Cash	Video Games
+MasterCard	Toys
+Visa	Health and Beauty
+Discover	Crafts
+Amex	Children's Clothing
+Amex	Men's Clothing
+MasterCard	Video Games
+Cash	Crafts
+Cash	Books
+Visa	Crafts
+Cash	Pet Supplies
+Visa	Health and Beauty
+Amex	Books
+Discover	Music
+Cash	Women's Clothing
+Visa	Crafts
+MasterCard	Men's Clothing
+Discover	Garden
+Discover	Men's Clothing
+Visa	Cameras
+Amex	Crafts
+Visa	Video Games
+Amex	Toys
+MasterCard	Health and Beauty
+Amex	Consumer Electronics
+Amex	CDs
+Cash	DVDs
+Amex	Books
+Amex	CDs
+Amex	Music
+Discover	Consumer Electronics
+Discover	Children's Clothing
+Visa	DVDs
+Amex	Health and Beauty
+Visa	Video Games
+Amex	Music
+Discover	Baby
+MasterCard	Baby
+Visa	Children's Clothing
+Visa	Women's Clothing
+MasterCard	Music
+MasterCard	Children's Clothing
+Visa	Computers
+Amex	Pet Supplies
+Visa	Toys
+Visa	Men's Clothing
+Discover	CDs
+Amex	CDs
+Visa	Computers
+Visa	Pet Supplies
+Discover	Children's Clothing
+Amex	Health and Beauty
+MasterCard	Books
+MasterCard	Computers
+Cash	Pet Supplies
+Cash	Garden
+MasterCard	Books
+MasterCard	Video Games
+Discover	Crafts
+Discover	Consumer Electronics
+MasterCard	DVDs
+Cash	Children's Clothing
+Cash	Toys
+MasterCard	Children's Clothing
+MasterCard	Children's Clothing
+Visa	Music
+Amex	Crafts
+MasterCard	Computers
+Visa	Crafts
+Visa	Toys
+Visa	Sporting Goods
+Discover	Women's Clothing
+Amex	Video Games
+Discover	Pet Supplies
+Amex	Toys
+MasterCard	Sporting Goods
+Visa	Men's Clothing
+MasterCard	Sporting Goods
+Cash	Baby
+Visa	Women's Clothing
+Visa	Cameras
+Visa	Toys
+Discover	Toys
+Discover	Crafts
+Discover	Video Games
+Cash	Women's Clothing
+Cash	Crafts
+MasterCard	Garden
+Visa	Consumer Electronics
+MasterCard	Garden
+Discover	Sporting Goods
+Cash	CDs
+MasterCard	Garden
+Cash	Books
+Visa	CDs
+Amex	Health and Beauty
+Visa	Women's Clothing
+Cash	Pet Supplies
+Cash	CDs
+Cash	Toys
+Visa	Sporting Goods
+MasterCard	Pet Supplies
+Discover	Baby
+Visa	CDs
+Visa	Crafts
+MasterCard	Crafts
+Discover	Children's Clothing
+Cash	Music
+Amex	Children's Clothing
+Visa	DVDs
+Discover	Women's Clothing
+MasterCard	Men's Clothing
+MasterCard	Books
+Amex	Health and Beauty
+Amex	Women's Clothing
+MasterCard	DVDs
+Amex	Music
+Visa	Men's Clothing
+Visa	Baby
+Cash	Women's Clothing
+Cash	Pet Supplies
+MasterCard	Books
+Discover	Music
+Cash	Health and Beauty
+Cash	Pet Supplies
+MasterCard	Garden
+MasterCard	Consumer Electronics
+Cash	CDs
+Amex	Crafts
+Visa	DVDs
+Visa	Computers
+MasterCard	Pet Supplies
+Discover	Pet Supplies
+Visa	CDs
+Cash	DVDs
+Discover	Garden
+MasterCard	DVDs
+Amex	Computers
+Discover	Men's Clothing
+Cash	Garden
+Cash	Children's Clothing
+Cash	Pet Supplies
+Amex	Men's Clothing
+Amex	Cameras
+MasterCard	Children's Clothing
+Visa	Video Games
+Discover	Crafts
+Amex	Video Games
+MasterCard	Garden
+Discover	Video Games
+Amex	CDs
+Cash	Crafts
+Visa	Crafts
+Cash	Books
+Amex	Computers
+Discover	CDs
+MasterCard	Consumer Electronics
+Discover	Music
+MasterCard	Women's Clothing
+Discover	DVDs
+MasterCard	DVDs
+Amex	Sporting Goods
+MasterCard	Video Games
+Discover	Cameras
+Cash	Pet Supplies
+Visa	Computers
+Cash	Toys
+MasterCard	Sporting Goods
+Discover	Children's Clothing
+Amex	Computers
+Visa	Computers
+Discover	Men's Clothing
+MasterCard	Garden
+Visa	DVDs
+MasterCard	Baby
+Visa	Books
+Cash	Garden
+Cash	Garden
+Visa	Health and Beauty
+Visa	Cameras
+Visa	Women's Clothing
+MasterCard	Consumer Electronics
+Amex	Pet Supplies
+Amex	Women's Clothing
+Discover	Crafts
+MasterCard	Music
+Visa	Video Games
+Cash	Garden
+Visa	Baby
+Amex	Men's Clothing
+MasterCard	Music
+Amex	CDs
+MasterCard	Sporting Goods
+Amex	Music
+Amex	DVDs
+Discover	Crafts
+Cash	Health and Beauty
+Cash	Video Games
+Discover	Cameras
+Amex	Cameras
+Visa	Baby
+Cash	DVDs
+Discover	Pet Supplies
+MasterCard	Men's Clothing
+Visa	Crafts
+Visa	Garden
+Visa	Consumer Electronics
+Cash	Women's Clothing
+MasterCard	Computers
+MasterCard	Garden
+Amex	Music
+Amex	Video Games
+Visa	Men's Clothing
+Discover	Women's Clothing
+Discover	Sporting Goods
+Amex	Health and Beauty
+Discover	Women's Clothing
+Amex	Music
+Discover	Video Games
+Visa	Women's Clothing
+MasterCard	Crafts
+Amex	Baby
+Cash	Music
+MasterCard	Cameras
+MasterCard	Music
+Cash	Computers
+Cash	Cameras
+MasterCard	DVDs
+Visa	Men's Clothing
+MasterCard	Women's Clothing
+Discover	Garden
+Amex	Books
+Discover	Pet Supplies
+Discover	Health and Beauty
+Visa	Toys
+Discover	Cameras
+MasterCard	Health and Beauty
+Visa	Cameras
+Amex	Consumer Electronics
+Visa	Men's Clothing
+Visa	Health and Beauty
+MasterCard	Women's Clothing
+Visa	Men's Clothing
+Amex	Cameras
+Amex	Cameras
+MasterCard	Women's Clothing
+Cash	DVDs
+Amex	Women's Clothing
+MasterCard	Pet Supplies
+MasterCard	Music
+Cash	Consumer Electronics
+Discover	Books
+Discover	CDs
+Cash	Children's Clothing
+Amex	Crafts
+Discover	Toys
+Visa	Sporting Goods
+MasterCard	Women's Clothing
+Visa	Sporting Goods
+Discover	Health and Beauty
+Cash	Health and Beauty
+Discover	Sporting Goods
+Cash	CDs
+MasterCard	Health and Beauty
+MasterCard	DVDs
+Discover	Baby
+Cash	Garden
+Cash	Books
+MasterCard	Health and Beauty
+MasterCard	Garden
+Cash	Toys
+Cash	Cameras
+Amex	Video Games
+Cash	Crafts
+Cash	Computers
+MasterCard	Consumer Electronics
+Amex	Baby
+Amex	Sporting Goods
+MasterCard	DVDs
+Visa	DVDs
+Amex	Toys
+Discover	Music
+Amex	Sporting Goods
+Discover	Music
+Visa	Children's Clothing
+Discover	Consumer Electronics
+Amex	Music
+Discover	CDs
+Discover	Baby
+Amex	Health and Beauty
+MasterCard	Video Games
+Discover	Cameras
+Visa	Pet Supplies
+Cash	Video Games
+MasterCard	Sporting Goods
+MasterCard	Crafts
+Discover	Sporting Goods
+Discover	Consumer Electronics
+Discover	Women's Clothing
+Cash	Cameras
+Discover	Pet Supplies
+MasterCard	Men's Clothing
+MasterCard	Health and Beauty
+Discover	Books
+Cash	Women's Clothing
+MasterCard	Computers
+Discover	Consumer Electronics
+Amex	Men's Clothing
+Visa	Baby
+Cash	Women's Clothing
+Discover	Music
+Cash	Children's Clothing
+Cash	Garden
+Cash	Women's Clothing
+MasterCard	Consumer Electronics
+Amex	Consumer Electronics
+Amex	Computers
+Cash	Pet Supplies
+Amex	Health and Beauty
+Discover	Sporting Goods
+Discover	Consumer Electronics
+Discover	Cameras
+Visa	Sporting Goods
+Amex	Garden
+MasterCard	Cameras
+Visa	Crafts
+Visa	Computers
+Discover	Sporting Goods
+Visa	Women's Clothing
+Cash	Pet Supplies
+Amex	Computers
+MasterCard	Men's Clothing
+Cash	Books
+Discover	Pet Supplies
+Amex	Women's Clothing
+Visa	CDs
+Cash	Health and Beauty
+MasterCard	Crafts
+Discover	CDs
+Cash	Toys
+Discover	Video Games
+Visa	Cameras
+Discover	Sporting Goods
+MasterCard	Computers
+Cash	Garden
+Visa	Consumer Electronics
+Amex	Sporting Goods
+Discover	Cameras
+MasterCard	Children's Clothing
+Cash	Pet Supplies
+MasterCard	Toys
+Visa	Pet Supplies
+Discover	Consumer Electronics
+Visa	Computers
+MasterCard	Computers
+Cash	CDs
+Visa	Books
+Visa	Garden
+Visa	Crafts
+Discover	Pet Supplies
+Visa	Toys
+Amex	Sporting Goods
+MasterCard	DVDs
+Amex	Cameras
+Cash	Baby
+Cash	Cameras
+Discover	Video Games
+MasterCard	DVDs
+Visa	Sporting Goods
+Amex	Baby
+Discover	CDs
+MasterCard	Cameras
+Cash	Sporting Goods
+Discover	Men's Clothing
+Discover	Health and Beauty
+Discover	Health and Beauty
+Discover	Men's Clothing
+Visa	Crafts
+Amex	Cameras
+Cash	Consumer Electronics
+Cash	Garden
+Amex	Cameras
+Discover	Computers
+Discover	Men's Clothing
+Amex	Pet Supplies
+Amex	Children's Clothing
+Cash	CDs
+Cash	Crafts
+Amex	CDs
+Visa	DVDs
+Discover	Sporting Goods
+Discover	Garden
+MasterCard	Baby
+MasterCard	DVDs
+Discover	Women's Clothing
+MasterCard	Cameras
+Amex	Cameras
+Discover	Music
+Cash	Sporting Goods
+Cash	Computers
+Visa	Computers
+Cash	Consumer Electronics
+MasterCard	Consumer Electronics
+Visa	Women's Clothing
+Cash	DVDs
+Visa	Video Games
+Amex	Women's Clothing
+Discover	Health and Beauty
+Discover	DVDs
+Amex	Consumer Electronics
+MasterCard	Pet Supplies
+Cash	DVDs
+MasterCard	Children's Clothing
+MasterCard	Cameras
+MasterCard	CDs
+Amex	CDs
+Amex	Garden
+Amex	Music
+Visa	Video Games
+Visa	Men's Clothing
+MasterCard	Children's Clothing
+Visa	Books
+Discover	Books
+Cash	Consumer Electronics
+Visa	Garden
+Visa	Men's Clothing
+MasterCard	Crafts
+Cash	Computers
+Cash	Baby
+Visa	Crafts
+Visa	Crafts
+Cash	Music
+Cash	Men's Clothing
+Amex	Video Games
+MasterCard	Computers
+MasterCard	Men's Clothing
+Cash	DVDs
+Discover	Music
+Amex	Toys
+MasterCard	CDs
+Visa	Garden
+Amex	Women's Clothing
+Amex	Men's Clothing
+Visa	Books
+Discover	Books
+MasterCard	Men's Clothing
+Visa	Men's Clothing
+Cash	Cameras
+Discover	Toys
+Discover	Toys
+Visa	Music
+Discover	Women's Clothing
+Discover	Cameras
+Amex	Women's Clothing
+Cash	DVDs
+Visa	Books
+Discover	Garden
+Visa	Men's Clothing
+Visa	Pet Supplies
+Amex	Pet Supplies
+MasterCard	Children's Clothing
+MasterCard	Health and Beauty
+Visa	Toys
+Cash	Pet Supplies
+MasterCard	Crafts
+Amex	Toys
+Discover	DVDs
+Discover	DVDs
+MasterCard	Baby
+Cash	Crafts
+Discover	Pet Supplies
+Cash	Men's Clothing
+MasterCard	Video Games
+Visa	Crafts
+Amex	Books
+Amex	Baby
+MasterCard	Toys
+Visa	Health and Beauty
+Cash	Children's Clothing
+Amex	Crafts
+Visa	Garden
+Cash	Video Games
+MasterCard	Pet Supplies
+MasterCard	Crafts
+Discover	Baby
+Amex	Garden
+MasterCard	Children's Clothing
+Discover	Children's Clothing
+Discover	Women's Clothing
+MasterCard	Video Games
+MasterCard	Children's Clothing
+Cash	Men's Clothing
+Visa	DVDs
+Discover	CDs
+Cash	Books
+Discover	Video Games
+MasterCard	Pet Supplies
+MasterCard	Men's Clothing
+Amex	Children's Clothing
+Amex	Computers
+Visa	Children's Clothing
+Cash	Sporting Goods
+Cash	Cameras
+Cash	Crafts
+Amex	Women's Clothing
+Cash	CDs
+Cash	Pet Supplies
+Visa	Books
+Discover	Books
+Cash	Garden
+Cash	Garden
+Visa	DVDs
+MasterCard	Children's Clothing
+Visa	Video Games
+Cash	Health and Beauty
+Discover	Crafts
+Visa	Health and Beauty
+Visa	Health and Beauty
+Discover	Cameras
+Visa	Women's Clothing
+Discover	Consumer Electronics
+MasterCard	Baby
+Cash	Health and Beauty
+Visa	Pet Supplies
+MasterCard	Video Games
+Cash	Consumer Electronics
+Visa	Toys
+MasterCard	Sporting Goods
+Amex	Men's Clothing
+Amex	Crafts
+Visa	Women's Clothing
+MasterCard	Baby
+Cash	Cameras
+MasterCard	Baby
+Amex	Consumer Electronics
+Discover	Music
+Visa	Toys
+Amex	Music
+Visa	Consumer Electronics
+Discover	Men's Clothing
+MasterCard	Garden
+Visa	Sporting Goods
+MasterCard	Video Games
+Amex	CDs
+Amex	Sporting Goods
+Visa	Children's Clothing
+Amex	Toys
+Visa	Sporting Goods
+Cash	Consumer Electronics
+Cash	Women's Clothing
+Visa	Health and Beauty
+Cash	Pet Supplies
+MasterCard	CDs
+Discover	Women's Clothing
+Discover	DVDs
+Amex	Garden
+Discover	Garden
+Cash	Consumer Electronics
+Cash	Computers
+Cash	Children's Clothing
+MasterCard	Computers
+Visa	Crafts
+Discover	Pet Supplies
+MasterCard	Sporting Goods
+Visa	Children's Clothing
+Amex	Sporting Goods
+Cash	Children's Clothing
+Discover	CDs
+Discover	Video Games
+Discover	Crafts
+Visa	CDs
+Amex	Crafts
+Visa	CDs
+Amex	Garden
+Amex	Cameras
+Amex	CDs
+Discover	DVDs
+Discover	Books
+Amex	Toys
+Visa	Cameras
+MasterCard	CDs
+Amex	DVDs
+MasterCard	Children's Clothing
+MasterCard	Video Games
+Cash	Toys
+MasterCard	Baby
+Cash	Consumer Electronics
+Amex	Children's Clothing
+Cash	Cameras
+Discover	Children's Clothing
+Discover	Cameras
+MasterCard	Health and Beauty
+Discover	Music
+Amex	DVDs
+Amex	Sporting Goods
+Amex	Video Games
+Discover	Books
+MasterCard	Sporting Goods
+Discover	DVDs
+Cash	Garden
+Cash	Garden
+Amex	Sporting Goods
+MasterCard	CDs
+MasterCard	Health and Beauty
+Visa	CDs
+Cash	Music
+Cash	Pet Supplies
+MasterCard	Music
+MasterCard	Toys
+Amex	Books
+Amex	Crafts
+MasterCard	Computers
+Cash	Sporting Goods
+Amex	Baby
+MasterCard	Children's Clothing
+Cash	Toys
+Visa	Baby
+Amex	Consumer Electronics
+Amex	Crafts
+MasterCard	Pet Supplies
+Cash	Health and Beauty
+Visa	Women's Clothing
+Visa	Toys
+Discover	Children's Clothing
+Discover	Books
+Visa	Children's Clothing
+Cash	Health and Beauty
+Visa	Children's Clothing
+Cash	Baby
+Cash	CDs
+Visa	Garden
+Amex	Crafts
+Discover	Baby
+Visa	Baby
+Visa	Women's Clothing
+Discover	Women's Clothing
+Visa	Books
+Discover	Pet Supplies
+Discover	Cameras
+Cash	Consumer Electronics
+Amex	Music
+Visa	Crafts
+MasterCard	Health and Beauty
+Cash	Pet Supplies
+Amex	Sporting Goods
+MasterCard	Toys
+Amex	DVDs
+Amex	Pet Supplies
+Cash	Crafts
+Amex	Health and Beauty
+Cash	Sporting Goods
+Amex	Music
+MasterCard	Children's Clothing
+Amex	Garden
+Visa	Computers
+Amex	Sporting Goods
+Cash	Toys
+Discover	Video Games
+Discover	Consumer Electronics
+MasterCard	Sporting Goods
+Discover	Books
+Visa	Baby
+Amex	Women's Clothing
+Discover	Consumer Electronics
+Discover	Sporting Goods
+Cash	Consumer Electronics
+MasterCard	Sporting Goods
+Cash	Sporting Goods
+Visa	Garden
+Visa	Toys
+Discover	Pet Supplies
+Amex	Computers
+Cash	Consumer Electronics
+Amex	Sporting Goods
+Discover	Baby
+Discover	CDs
+Visa	Children's Clothing
+Discover	Toys
+Visa	Pet Supplies
+Cash	Books
+Amex	Sporting Goods
+Cash	CDs
+Visa	Baby
+MasterCard	Health and Beauty
+MasterCard	Health and Beauty
+Visa	Computers
+Cash	Video Games
+Discover	Books
+Visa	Men's Clothing
+Visa	Music
+Visa	Video Games
+Discover	Books
+Visa	DVDs
+Visa	Sporting Goods
+Cash	Toys
+Visa	Video Games
+MasterCard	CDs
+Cash	Music
+Amex	Video Games
+Visa	Women's Clothing
+Amex	Books
+Visa	Cameras
+Visa	Baby
+MasterCard	Cameras
+Visa	Women's Clothing
+Visa	Health and Beauty
+Cash	Computers
+Amex	Men's Clothing
+MasterCard	DVDs
+Amex	Computers
+Amex	Music
+Visa	Consumer Electronics
+Cash	Garden
+MasterCard	Computers
+Discover	Garden
+Discover	Video Games
+Visa	Computers
+MasterCard	CDs
+Discover	Pet Supplies
+Visa	Women's Clothing
+Visa	Pet Supplies
+Visa	Pet Supplies
+Amex	Consumer Electronics
+MasterCard	Music
+Amex	Music
+Cash	Computers
+MasterCard	DVDs
+Cash	DVDs
+Amex	Crafts
+Visa	Cameras
+MasterCard	Cameras
+Amex	Consumer Electronics
+Amex	Health and Beauty
+Discover	Cameras
+MasterCard	Music
+Cash	Children's Clothing
+Visa	Video Games
+Cash	Music
+Visa	Children's Clothing
+Discover	Garden
+Cash	Men's Clothing
+Amex	CDs
+Amex	Video Games
+MasterCard	Crafts
+MasterCard	Computers
+Amex	Books
+Amex	Crafts
+Amex	DVDs
+Visa	DVDs
